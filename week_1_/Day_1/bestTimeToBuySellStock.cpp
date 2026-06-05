@@ -1,4 +1,4 @@
-// day 1: best time to buy and sell stock
+// week 1 day 1: best time to buy and sell stock
 
 #include<iostream>
 #include<vector>
